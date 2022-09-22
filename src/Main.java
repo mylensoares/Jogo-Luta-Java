@@ -1,4 +1,4 @@
-public class Lutar {
+public class Main {
     public static void main(String[] args) throws Exception {
         Lutador l[] = new Lutador[6];
         Luta M01 = new Luta();
